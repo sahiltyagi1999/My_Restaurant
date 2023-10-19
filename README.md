@@ -21,7 +21,7 @@ This project was inspired by the need for a streamlined solution for restaurant 
 
 ### Screenshots
 
-![Homepage](/screenshots/homepage.png)
+![Homepage](/homepage.png)
 *Caption: The homepage displays featured menu items and promotions.*
 
 ![Menu Page](/screenshots/menu.png)
