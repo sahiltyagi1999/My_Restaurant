@@ -21,14 +21,16 @@ This project was inspired by the need for a streamlined solution for restaurant 
 
 ### Screenshots
 
-![Homepage](/homepage.png)
-*Caption: The homepage displays featured menu items and promotions.*
+![Homepage](/Homepage.png)
 
-![Menu Page](/screenshots/menu.png)
-*Caption: Customers can explore the full menu with detailed item information.*
 
-![Admin Dashboard](/screenshots/admin-dashboard.png)
-*Caption: Restaurant owners can manage orders and update menu items through the admin dashboard.*
+![About Us](/Aboutus.png)
+
+![Chef's Word](/Chef's_word.png)
+
+![Todays Special](/Todays_special.png)
+![Footer](/Footer.png)
+
 
 ## Getting Started
 
