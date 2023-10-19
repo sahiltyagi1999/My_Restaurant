@@ -26,9 +26,9 @@ This project was inspired by the need for a streamlined solution for restaurant 
 
 ![About Us](/Aboutus.png)
 
-![Chef's Word](/Chef's_word.png)
+![Chef's Word](/Chef's_Word.png)
 
-![Todays Special](/Todays_special.png)
+![Todays Special](/Todays_Special.png)
 ![Footer](/Footer.png)
 
 
